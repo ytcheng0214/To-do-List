@@ -2,6 +2,10 @@
 
 A simple To-Do List application built using **Avalonia UI**, a cross-platform .NET UI framework.
 
+## Demo
+![ezgif-39dfedfb430bbe](https://github.com/user-attachments/assets/2f6d5f7a-54a4-46aa-97d1-37091417cf4c)
+
+
 ## Features
 - Add and remove tasks in a list
 - User-friendly interface with a modern design
