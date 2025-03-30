@@ -20,7 +20,7 @@ A simple To-Do List application built using **Avalonia UI**, a cross-platform .N
 ### Installation & Run
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/TodoApp2.git
+git clone https://github.com/ytcheng0214/To-do-List.git
 cd TodoApp2
 
 # Restore dependencies
