@@ -3,8 +3,6 @@
 A simple To-Do List application built using **Avalonia UI**, a cross-platform .NET UI framework.
 
 ## Demo
-![ezgif-39dfedfb430bbe](https://github.com/user-attachments/assets/2f6d5f7a-54a4-46aa-97d1-37091417cf4c)
-
 ![ ](https://github.com/user-attachments/assets/f5c5939c-83d3-4f5a-a5dd-7c96f7bffdc4)
 
 ## Features
