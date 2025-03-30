@@ -1,0 +1,39 @@
+# To-do List (C# .NET Avalonia UI)
+
+A simple To-Do List application built using **Avalonia UI**, a cross-platform .NET UI framework.
+
+## Features
+- Add and remove tasks in a list
+- User-friendly interface with a modern design
+- Uses data binding for task management
+
+## Technologies Used
+- **Avalonia UI** (v11.2.6) for cross-platform UI development
+- **C# .NET 9.0** for application logic
+- **MVVM pattern** for better separation of UI and logic
+- **ObservableCollection** for dynamic task list management
+
+## Getting Started
+### Prerequisites
+- .NET SDK 9.0+
+
+### Installation & Run
+```sh
+# Clone the repository
+git clone https://github.com/yourusername/TodoApp2.git
+cd TodoApp2
+
+# Restore dependencies
+dotnet restore
+
+# Build the project
+dotnet build
+
+# Run the application
+dotnet run
+```
+
+## File Structure
+- `MainWindow.axaml` - Defines the UI layout
+- `MainWindow.axaml.cs` - Handles application logic
+- `TodoApp2.csproj` - Project configuration
